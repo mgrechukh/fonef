@@ -5,7 +5,7 @@ get link to actual facebook event for F1F
 
 It uses phantomjs to open http://manezhka.com and read button link
 
-Usage
+Usage example
 ====================
 
 ```
@@ -16,7 +16,7 @@ https://www.facebook.com/events/406603402849183/
 Availability note
 ====================
 
-This tool depends on availability of http://manezhka.com. Your country authorities may block it sometimes, if so, i can't help.
+This tool depends on availability of http://manezhka.com. Your country authorities may block it sometimes, unfortunately I can't help if so happened.
 
 
 TODO
